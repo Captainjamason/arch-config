@@ -22,6 +22,7 @@ Plugin 'Raimondi/delimitMate'
 Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'vbe0201/vimdiscord'
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'alvan/vim-closetag'
 call vundle#end()
 filetype plugin indent on
 

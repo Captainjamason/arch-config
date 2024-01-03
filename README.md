@@ -1,2 +1,1 @@
-# arch-config
-My i3-gaps config for Arch, using Polybar too
+heres some dotfiles i guess. more just wanted to keep stuff backed up
